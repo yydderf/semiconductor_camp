@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "第一組",
@@ -94,14 +94,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.1,
+  "textFadeMultiplier": 0.3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 5,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 1,
+  "repelStrength": 19.2008463541667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7395793257571055,
+  "linkDistance": 30,
+  "scale": 0.8217266914170243,
   "close": true
 }
