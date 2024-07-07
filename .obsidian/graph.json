@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:分組狀況 OR path:學員",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -102,6 +102,6 @@
   "repelStrength": 19.2008463541667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8217266914170243,
+  "scale": 0.8673736579721585,
   "close": true
 }
