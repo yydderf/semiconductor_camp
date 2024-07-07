@@ -1,0 +1,107 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "第一組",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "第二組",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "第三組",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "第四組",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "第五組",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "第六組",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "第七組",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "第八組",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "第九組",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "第十組",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "第十一組",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "第十二組",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7395793257571055,
+  "close": true
+}
