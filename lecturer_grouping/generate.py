@@ -42,7 +42,7 @@ while name := names.readline():
         ret_list.append(elem[0])
         tmp_list.remove(elem[0])
     ret_list.append(random.choice(rps_list))
-    output.write((f"{curr_datetime.strftime("%Y/%m/%d 下午 %H:%M:%S")},{name.strip()},{",".join(ret_list)}\n"))
+    output.write((f"{curr_datetime.strftime('%Y/%m/%d 下午 %H:%M:%S')},{name.strip()},{','.join(ret_list)}\n"))
     id += 1
     random_inc = random.randint(0, 2)
     curr_datetime = curr_datetime + datetime.timedelta(seconds=random_inc)
