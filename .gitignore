@@ -1,3 +1,6 @@
 *.csv
 *學員*
 *分組*
+*.json
+*_names
+a.out
