@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "eda71a0b3db2699c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbedcf8400806951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d713b8feb0472c59",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1d8f9b27c010590",
+    "type": "split",
+    "children": [
+      {
+        "id": "da69abc6791b920f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "738592f89feffe12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d43ac59850fe608a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bb48709553ceed2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0c625e9d623f849c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d698d748b1cacc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d70cf67196c4d498",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5711eb6d7dc26f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97aef178cedf1c49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c32d95260a5e6781",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d713b8feb0472c59",
+  "lastOpenFiles": [
+    "分組狀況/第十二組/第十二組.md",
+    "分組狀況/第十二組",
+    "分組狀況/第十一組/第十一組.md",
+    "分組狀況/第十一組",
+    "分組狀況/第十組/第十組.md",
+    "分組狀況/第十組",
+    "分組狀況/第九組/第九組.md",
+    "分組狀況/第九組",
+    "分組狀況/第八組/第八組.md",
+    "分組狀況/第八組",
+    "分組狀況/第七組/第七組.md",
+    "分組狀況/第七組",
+    "分組狀況/第六組/第六組.md",
+    "分組狀況/第六組",
+    "分組狀況/第五組/第五組.md",
+    "分組狀況/第五組",
+    "分組狀況/第四組/第四組.md",
+    "分組狀況/第四組",
+    "分組狀況/第三組/第三組.md",
+    "分組狀況/第三組",
+    "分組狀況/第二組/第二組.md",
+    "分組狀況/第一組/第一組.md",
+    "學員/傅偉宬.md",
+    "學員/林承漢.md",
+    "學員/吳翊勤.md",
+    "學員/曾子宸.md",
+    "學員/林羿希.md",
+    "學員/孫宇禾.md",
+    "學員/李建澍.md",
+    "學員/陳奐聿.md",
+    "學員/許芯悌.md",
+    "學員/林冠霖.md",
+    "學員/蘇子宸.md",
+    "學員/王邑安.md",
+    "學員/周讚.md",
+    "學員/鄭紹強.md"
+  ]
+}
